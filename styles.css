@@ -1,0 +1,20 @@
+p {
+    font-family: verdana;
+    color: #4b4b4b;
+    font-size: 20px;
+}
+
+.paragrafo-final {
+    color: #000000;
+}
+
+#autor {
+    font-style: italic;
+    font-size: 15px; 
+}
+
+li{
+    font-family: arial;
+    color: #1a1aaa;
+    font-size: 18px;
+}
